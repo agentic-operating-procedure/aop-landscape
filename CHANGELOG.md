@@ -4,6 +4,15 @@ All notable changes to this repository are documented here. Format follows [Keep
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-05
+
+### Added (CR-009-9: owner decisions implemented)
+
+- Published the crosswalks and disambiguation document: the three name collisions resolved by artefact class (Shoham 1993 agent-oriented programming, Decagon Agent Operating Procedure, the review-named Skan playbook), verdict-form crosswalks to policy engines, NIST AI RMF, ISO/IEC 42001, and the EU AI Act and OWASP rows routed through the ISO/IEC and NIST anchors per the sourcing rule, and the evidence statement for the positioning claim.
+- The specification-layer claim is retained and evidenced: demonstrated-by-artefact parts and argued parts are distinguished, with every crosswalk row marking its reasoning status.
+
+
+
 ## [0.1.0] - 2026-11-03
 
 ### Positioning foundation

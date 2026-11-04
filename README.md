@@ -7,7 +7,7 @@
 | Authority | External positioning, prior art, standards grounding |
 | Tier | Concept |
 | Landing wave | 1 |
-| Version | 0.1.0 |
+| Version | 0.1.1 |
 | Status | Stable |
 | Licence | MIT |
 
