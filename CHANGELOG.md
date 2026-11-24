@@ -21,5 +21,6 @@ All notable changes to this repository are documented here. Format follows [Keep
 - Published the prior-art survey with the stopping point of each surveyed system.
 - Published the standards landscape, naming the open standards the programme cites and the exact part of each it uses.
 
-[Unreleased]: https://github.com/agentic-operating-procedure/aop-landscape/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/agentic-operating-procedure/aop-landscape/releases/tag/v0.1.0
+[0.1.1]: https://github.com/agentic-operating-procedure/aop-landscape/compare/v0.1.0...v0.1.1
+[Unreleased]: https://github.com/agentic-operating-procedure/aop-landscape/compare/v0.1.1...HEAD
