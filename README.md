@@ -9,7 +9,7 @@
 | Landing wave | 1 |
 | Version | 0.1.1 |
 | Status | Stable |
-| Licence | MIT |
+| Licence | Apache-2.0 |
 
 ## Why this repository exists
 
@@ -56,7 +56,7 @@ aop-landscape/
   README.md            # this file
   CHANGELOG.md         # release notes
   CODEOWNERS           # ownership
-  LICENSE              # MIT
+  LICENSE              # Apache-2.0
   docs/                # the differentiation table, the prior-art survey, the standards landscape
 ```
 
@@ -66,4 +66,4 @@ The contribution guide, the code of conduct, and the issue and pull-request temp
 
 ## Licence
 
-MIT. See `LICENSE`.
+Apache-2.0. See `LICENSE`.
